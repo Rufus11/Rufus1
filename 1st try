@@ -1,9 +1,27 @@
 <!DOCTYPE html>
 <html>
-		<head>
-			<title> my web page </title>
-		</head>
-		<body>
-			Hello universe
-		</body>
+	<head>
+		<style 
+		h1 {
+		colour: green;
+		text-aling: center
+			}
+		</style>
+		
+		<title> my web page </title>
+	</head>
+	 <h1> be my friend </h1>
+	<body>
+		<ul>
+			<li>uni</li>
+			<li>dice</li>
+			<li>maccy</li>
+		</ul>
+		<ol>
+			<li>1</li>
+			<li>2</li>
+			<li>22</li>
+		</ol>
+		<img src="300.jpg">
+	 </body>
 	</html>
